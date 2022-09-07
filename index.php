@@ -21,7 +21,7 @@
     <nav class="navbar px-lg-5 navbar-expand-lg my-0 bg-black navbar-light sticky-top" id="nav_res">
         <div class="container-fluid">
             <a href="index.html" class="navbar-brand">
-                <img src="./logo.png" class="image" alt="">
+                <img src="./images/logo.png" class="image" alt="">
             </a>
             <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="bi bi-text-right fs-2 text-light"></span>
@@ -82,34 +82,34 @@
     <section class="product mt-6 overflow-hidden">
        <div class="container">
             <div class="row">
-                <img src="./divider_1.png" class="w-10" alt="">
+                <img src="./images/divider_1.png" class="w-10" alt="">
                 <h2 class="heading text-center my-4">Our Specialties</h2>
                 <div class="col-lg-11 mt-5 mx-auto d-flex flex-column flex-lg-row justify-content-lg-between">
                     <div class="w-20 position-relative mx-auto my-2" data-aos="fade-right"     data-aos-duration="700"     data-aos-easing="ease-in-out">
                         <div class="services_frame" bis_skin_checked="1">
-                            <img src="./Round-Border-1--Arvin61r58.png" class="om" alt="">
-                            <img src="./q93y5T7NWDbw.png" class="images" alt="">
+                            <img src="./images/Round-Border-1--Arvin61r58.png" class="om" alt="">
+                            <img src="./images/q93y5T7NWDbw.png" class="images" alt="">
                         </div> 
                         <h3 class="text_custom text-center mt-3">Ready Belgium Chocolate</h3>
                     </div> 
                     <div class="w-20 position-relative mx-auto my-2" data-aos="fade-left" data-aos-duration="700"     data-aos-easing="ease-in-out">
                         <div class="services_frame" bis_skin_checked="1">
-                            <img src="./Round-Border-1--Arvin61r58.png" class="om" alt="">
-                            <img src="./q93y5T7NWDbw.png" class="images" alt="">
+                            <img src="./images/Round-Border-1--Arvin61r58.png" class="om" alt="">
+                            <img src="./images/q93y5T7NWDbw.png" class="images" alt="">
                         </div> 
                         <h3 class="text_custom text-center mt-3">Ready Belgium Chocolate</h3>
                     </div>
                     <div class="w-20 position-relative mx-auto my-2" data-aos="fade-right" data-aos-duration="700"     data-aos-easing="ease-in-out">
                         <div class="services_frame" bis_skin_checked="1">
-                            <img src="./Round-Border-1--Arvin61r58.png" class="om" alt="">
-                            <img src="./q93y5T7NWDbw.png" class="images" alt="">
+                            <img src="./images/Round-Border-1--Arvin61r58.png" class="om" alt="">
+                            <img src="./images/q93y5T7NWDbw.png" class="images" alt="">
                         </div> 
                         <h3 class="text_custom text-center mt-3">Ready Belgium Chocolate</h3>
                     </div>
                     <div class="w-20 position-relative mx-auto my-2" data-aos="fade-left" data-aos-duration="700"     data-aos-easing="ease-in-out">
                         <div class="services_frame" bis_skin_checked="1">
-                            <img src="./Round-Border-1--Arvin61r58.png" class="om" alt="">
-                            <img src="./q93y5T7NWDbw.png" class="images" alt="">
+                            <img src="./images/Round-Border-1--Arvin61r58.png" class="om" alt="">
+                            <img src="./images/q93y5T7NWDbw.png" class="images" alt="">
                         </div>
                         <h3 class="text_custom text-center mt-3">Ready Belgium Chocolate</h3>
                     </div>
@@ -117,29 +117,29 @@
                 <div class="col-lg-11 mt-2 mx-auto d-flex flex-column flex-lg-row justify-content-lg-between">
                     <div class="w-20 position-relative mx-auto my-4"  data-aos="fade-right"     data-aos-duration="700"     data-aos-easing="ease-in-out">
                         <div class="services_frame" bis_skin_checked="1">
-                            <img src="./Round-Border-1--Arvin61r58.png" class="om" alt="">
-                            <img src="./q93y5T7NWDbw.png" class="images" alt="">
+                            <img src="./images/Round-Border-1--Arvin61r58.png" class="om" alt="">
+                            <img src="./images/q93y5T7NWDbw.png" class="images" alt="">
                         </div> 
                         <h3 class="text_custom text-center mt-3">Ready Belgium Chocolate</h3>
                     </div> 
                     <div class="w-20 position-relative mx-auto my-4"  data-aos="fade-left"     data-aos-duration="700"     data-aos-easing="ease-in-out">
                         <div class="services_frame" bis_skin_checked="1">
-                            <img src="./Round-Border-1--Arvin61r58.png" class="om" alt="">
-                            <img src="./q93y5T7NWDbw.png" class="images" alt="">
+                            <img src="./images/Round-Border-1--Arvin61r58.png" class="om" alt="">
+                            <img src="./images/q93y5T7NWDbw.png" class="images" alt="">
                         </div> 
                         <h3 class="text_custom text-center mt-3">Ready Belgium Chocolate</h3>
                     </div>
                     <div class="w-20 position-relative mx-auto my-4"  data-aos="fade-right"     data-aos-duration="700"     data-aos-easing="ease-in-out">
                         <div class="services_frame" bis_skin_checked="1">
-                            <img src="./Round-Border-1--Arvin61r58.png" class="om" alt="">
-                            <img src="./q93y5T7NWDbw.png" class="images" alt="">
+                            <img src="./images/Round-Border-1--Arvin61r58.png" class="om" alt="">
+                            <img src="./images/q93y5T7NWDbw.png" class="images" alt="">
                         </div> 
                         <h3 class="text_custom text-center mt-3">Ready Belgium Chocolate</h3>
                     </div>
                     <div class="w-20 position-relative mx-auto my-4"  data-aos="fade-left"     data-aos-duration="700"     data-aos-easing="ease-in-out">
                         <div class="services_frame" bis_skin_checked="1">
-                            <img src="./Round-Border-1--Arvin61r58.png" class="om" alt="">
-                            <img src="./q93y5T7NWDbw.png" class="images" alt="">
+                            <img src="./images/Round-Border-1--Arvin61r58.png" class="om" alt="">
+                            <img src="./images/q93y5T7NWDbw.png" class="images" alt="">
                         </div> 
                         <h3 class="text_custom text-center mt-3">Ready Belgium Chocolate</h3>
                     </div>
@@ -155,22 +155,22 @@
                 <div class="col-lg-11 mt-5 mx-auto d-flex flex-column flex-lg-row justify-content-lg-between">
                     <div class="w-20-custom position-relative mx-auto my-2" data-aos="flip-up"  data-aos-duration="700"     data-aos-easing="ease-in-out">
                         <div class="services_frame" bis_skin_checked="1">
-                            <img src="./Round-Border-1--Arvin61r58.png" class="om" alt="">
-                            <img src="./featurs1.png" class="images" alt="">
+                            <img src="./images/Round-Border-1--Arvin61r58.png" class="om" alt="">
+                            <img src="./images/featurs1.png" class="images" alt="">
                         </div> 
                         <h3 class="text_custom text-center mt-3">Best Quality</h3>
                     </div> 
                     <div class="w-20-custom position-relative mx-auto my-2" data-aos="flip-right"  data-aos-duration="700"     data-aos-easing="ease-in-out">
                         <div class="services_frame" bis_skin_checked="1">
-                            <img src="./Round-Border-1--Arvin61r58.png" class="om" alt="">
-                            <img src="./featurs2.png" class="images" alt="">
+                            <img src="./images/Round-Border-1--Arvin61r58.png" class="om" alt="">
+                            <img src="./images/featurs2.png" class="images" alt="">
                         </div> 
                         <h3 class="text_custom text-center mt-3">Online Support</h3>
                     </div>
                     <div class="w-20-custom position-relative mx-auto my-2" data-aos="flip-down"  data-aos-duration="700"     data-aos-easing="ease-in-out">
                         <div class="services_frame" bis_skin_checked="1">
-                            <img src="./Round-Border-1--Arvin61r58.png" class="om" alt="">
-                            <img src="./featurs3.png" class="images" alt="">
+                            <img src="./images/Round-Border-1--Arvin61r58.png" class="om" alt="">
+                            <img src="./images/featurs3.png" class="images" alt="">
                         </div> 
                         <h3 class="text_custom text-center mt-3">quick Delivery</h3>
                     </div>
@@ -199,13 +199,13 @@
                      <div class="d-flex justify-content-center align-item-center w-50">
                         <div class="w-20-link-custom position-relative mx-auto my-2">
                             <div class="services_frame " bis_skin_checked="1">
-                                <img src="./Round-Border-1--Arvin61r58.png" class="om" alt="">
+                                <img src="./images/Round-Border-1--Arvin61r58.png" class="om" alt="">
                                 <i class="fa-brands fa-facebook-f face"></i>
                             </div> 
                          </div>
                          <div class="w-20-link-custom position-relative mx-auto my-2">
                             <div class="services_frame" bis_skin_checked="1">
-                                <img src="./Round-Border-1--Arvin61r58.png" class="om" alt="">
+                                <img src="./images/Round-Border-1--Arvin61r58.png" class="om" alt="">
                                 <i class="fa-brands fa-instagram insta"></i>
                             </div> 
                          </div>
@@ -226,22 +226,64 @@
     <div id="wats">
         <a href="https://wa.me/966500110260" class="de"><i class="fa-brands fa-whatsapp me-2 wTS-COLOR"></i></a>
     </div>
+    <div id="setting" class="d-flex justify-content-center align-items-center">
+        <div class="div_side"></div>
+        <a class="btn btn-primary" data-bs-toggle="offcanvas" href="#offcanvasExample" role="button" aria-controls="offcanvasExample">
+            <i class="bi bi-gear"></i>
+        </a>
+    </div>
+    <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
+        <div class="offcanvas-header">
+          <h5 class="offcanvas-title" id="offcanvasLabel">Setting</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+          <form action="index.php" id="form_setting" method='POST' enctype='multipart/form-data'>
+            <div class="mb-3">
+                <label for="exampleFormControlInput1" class="form-label text_custom">Password</label>
+                <input  type="text" class="form-control" name="passs" id="text_pass" placeholder="Password">
+            </div>
+            <div class="mb-3">
+                <label for="exampleFormControlInput1" class="form-label text_custom">Upload Image</label>
+                <input type="file" class="form-control" name="img_upload" id="upload_file">
+            </div>
+            <div class="col-auto">
+                <input type="submit" id="send" name="img_submit" class="btn btn-primary mb-3">
+            </div>
+          </form>
+        </div>
+      </div>
+    <div id="pen">
+        <?php 
+            foreach(glob('./images/products/*.*') as $filename){
+                echo "<img src='".$filename."'>";
+            }
+        ?>
+    </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa"
-        crossorigin="anonymous"></script>
+    integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa"
+    crossorigin="anonymous"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="./script.js"></script>
     <script>
-        const myCarouselElement = document.getElementById('carouselExampleIndicators')
+        const myCarouselElement = document.getElementById('carouselExampleIndicators');
         const carousel = new bootstrap.Carousel(myCarouselElement, {
         interval: 2500,
         wrap: true
-        })
+        });
     </script>
       <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
       <script>
         AOS.init();
       </script>
 </body>
-
 </html>
+<?php
+    if(isset($_POST['img_submit']) && $_POST['passs']=="admin"  && isset($_FILES['img_upload']['name']) ){
+        $img_name=$_FILES['img_upload']['name'];
+        $tmp_img_name=$_FILES['img_upload']['tmp_name'];
+        $folder='images/products/';
+        move_uploaded_file($tmp_img_name,$folder.$img_name);
+        // echo '<script> location.reload(); </script>';
+    }
+?>

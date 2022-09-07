@@ -300,3 +300,21 @@ html{
         margin-bottom: 150px;
     }
 }
+#setting{
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    top: 15vh;
+    left: 0;
+    /* border-radius: 50%; */
+    font-size: 60px;
+    color: black;
+    background: white;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    font-size: 28px;
+    box-shadow: 0 0 8px 0 #000;
+}
